@@ -36,13 +36,6 @@ footer-links:
   playconsole:
   mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
 
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus: 
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-11
-
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
 #google_analytics_ga4: G-GABC1DEFG
 
@@ -59,6 +52,9 @@ baseurl: ""
 #
 # !! You don't need to change any of the configuration flags below !!
 #
+
+# show posts with future dates
+future: true
 
 permalink: /:title/
 
