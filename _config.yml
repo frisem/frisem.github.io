@@ -26,11 +26,11 @@ footer-links:
   flickr:
   github: # amitmerchant1990/reverie
   instagram:
-  linkedin: 
+  linkedin:
   pinterest:
   rss: rss
   twitter: # amit_merchant
-  stackoverflow: 
+  stackoverflow:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
@@ -69,7 +69,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    css_class: "highlight"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
@@ -82,9 +82,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
-include: ['_pages']
+include: ["_pages"]
 
-paginate: 6
+paginate: 20
 paginate_path: /page:num/
 
 # Exclude these files from your production _site
@@ -94,4 +94,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-

@@ -3,7 +3,9 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+
+  {% assign sorted_posts = paginator.posts | sort: "date" %}
+  {% for post in sorted_posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
@@ -12,9 +14,6 @@ layout: default
           <p class="post_date">{{ post.speaker }} · {{ post.date | date: "%B %e, %Y" }}</p>
         </div>
       </a>
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
     </article>
   {% endfor %}
 
