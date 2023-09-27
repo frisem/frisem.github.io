@@ -1,55 +1,46 @@
 ---
 layout: page
 permalink: /norms/
-title: Frisem Objective and Ethos
+title: FriSem Objective and Ethos
 ---
-
-[This is just early draft of the norms document. It is not official and subject to revision.]
 
 # Mission
 
-Friday Seminar (Frisem) is a professional training seminar for the Cognitive and Neuroscience areas of the Psychology department. Frisem has the following aims:
+Friday Seminar (FriSem) is a professional training seminar for the Cognitive and Neuroscience areas of the Psychology department. FriSem has the following aims:
 
-1. Frisem should be a comfortable space where students can present their original scientific material. Frisem should be a place where students can practice:
+1. FriSem should be a comfortable space where **trainees can present their original scientific material** with the purpose of practicing:
+
    - Developing clear scientific presentations
    - Thinking on one’s feet and efficiently managing and addressing audience questions
    - Refining one’s work to be defensible to a strong scientific audience
+   - Developing resilience to common & normal anxiety of speaking in front of the scientific community
 
-2. Frisem should be a place where students learn to interact with science and respectfully engage with other scientists and their work, including by watching faculty and older community members present their own work and engage with others.
- 
-3. Frisem should be a place where community members can get feedback on work in progress.
+2. FriSem should be a place where **trainees learn to interact with science and respectfully engage with other scientists and their work**. This includes asking relevant scientific questions, thinking critically about presentations that do not directly pertain to one’s own work, engaging with the community, and supporting one another’s scientific development.
 
-Frisem should be a place to:
+3. FriSem should be a place where community members can **get feedback on work in progress**.
 
-- Support each other’s scientific and career development
-- Learn from peers and colleagues
-- Develop resilience of common & normal anxiety of speaking in front of the scientific community
-  - can take the form of scientific questions and speaking up during community meetings/group sessions
-- Learn to think critically and extract meaning from scientific presentations that do not necessarily pertain to one’s own work.
+4. FriSem should be a place where community members can **learn about and discuss relevant topics in their field**.
 
-## Speakers and programming
+# Speakers and programming
 
-Because FriSem is mainly intended as a training seminar for members of the Stanford Psychology community, we aim to prioritize internal speakers. To that end, assuming that FriSem is held 8-9 weeks each quarter, we hope to limit invited guest speakers to ~2 weeks per quarter. We hope that all other weeks will have speakers from within Stanford.
+Because FriSem is mainly intended as a training seminar for members of the Stanford Psychology community, we aim for **the majority of weeks to have trainee presentations (students, postdocs, etc.)**. We encourage **professors to volunteer to host educational sessions**, in which they share how they think about topics in cognitive neuroscience, give a tutorial, or talk about non-research/professional-development-related topics (e.g., how to run a lab or put together a job talk). Other programming might include alumni panels (both industry and academia) and focused community discussions on relevant topics.
 
-We hope that most weeks will involve some sort of student or postdoc presentation on ongoing work. We also hope that some weeks, professors will volunteer to both share work and help educate students on relevant issues. Other programming might include alumni panels (both industry and academia) and focused community discussions on relevant topics.
+To that end, assuming that FriSem is held 8-9 weeks each quarter, we hope to maintain a standard of having 7-8 student presentations, 1-2 faculty prestations, 0-1 external speakers/other sessions each term. We encourage trainees in the department to aim for at least one presentation per year. Please reach out to the organizers to schedule a presentation date. We also hope that professors will encourage their trainees to share their work in this forum.
 
-If you are interested in presenting in Frisem, please reach out to the organizers. We also hope that professors will encourage their trainees who are in a good spot to share their work to do so.
+# Interacting with speakers
 
-# Community expectations
+- **FriSem is a training seminar**. Presentations should be as low-stress as possible, and audience members should interact with speakers in recognition of this principle.
+- **Make an active effort to phrase feedback, comments, and questions in a constructive and educational way**. It is important to have constructive, educational aims in any interaction with the speaker. To foster growth mindset and reinforce the necessity for constructiveness in the training seminar, the organizers will help audience members reframe any points in ways that are constructive. If it seems like an exchange is not serving a constructive purpose, the organizers will deliberately attempt to steer the conversation back to being a constructive one.
+- When asking questions, consider that in addition to the speaker, the audience is mostly comprised of trainees for whom you should aim to be a role model in scientific communication and discourse.
+- Participation can come in many forms. Questions are one form; however, notes and following up with speakers can be just as – if not more – effective, and therefore are also encouraged.
+- Should problems arise, we encourage you to reach out to an organizer or fill out an anonymous feedback form. A key role of the organizers is to create an environment where people treat one another with respect.
 
-## Attendance
+# Attendance
 
-A training seminar is only as productive as the people who choose to make it so.
+A training seminar is only as productive and welcoming as the people who choose to make it so. To that end,
 
-- <u>Student attendance is expected</u> and is a crucial part of your education. 
-- <u>Faculty attendance is also expected.</u> Participation in the training of students is part of the responsibility of faculty members. 
-- We understand that we are all busy and might not be able to make Frisem every week. That is ok. But please do not blow off Frisem because you are tired at the end of the week and want to go home at 3:15.
+- **Student attendance is expected** and is a crucial part of your education.
+- **Faculty attendance is also expected**; participation in the training of students is an essential part of the responsibility of faculty members.
+- We understand that we are all busy and might not be able to make FriSem every week. That is ok. But please do not blow off FriSem because you are tired at the end of the week and want to go home at 3:15.
 
-## Interacting with speakers
-
-- **Frisem is a training seminar.** Presentations should be low-stress, and audience members should interact with speakers in recognition of this principle.
-- **Make an active effort to phrase criticism in a constructive and educational way.** It is part of the role of the organizers to help audience members make points in ways that are constructive. If it seems like an exchange isn’t serving a constructive purpose, the organizers will try and steer the conversation back to being constructive.
-- When asking questions, consider that your audience is the speaker and your peers.
-- Participation can come in many forms. Questions are one form; notes and following up with speakers are another. 
-- Should problems arise, we encourage you to reach out to an organizer or to fill out the anonymous feedback form at any time. While we hope that any disputes can be resolved between individuals, a part of the role of the organizers is to create an environment where people are comfortable participating.
-
+We understand that we are all busy and might not be able to make FriSem every week, but please limit absences to unavoidable conflicts and cases of emergency.We kindly encourage everyone in the Cognitive and Neuroscience areas of the Psychology department to please try to keep FriSem in mind when setting recurring meetings/flexible commitments throughout the academic year.
