@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Title TBD
+title: "Mapping the Development of Visual Function in Early and High-Level Visual Cortex: Insights from Toonotopic Maps"
 speaker: Jewelia Yao
 ---
 
