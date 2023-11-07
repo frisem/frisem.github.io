@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Title TBD
-speaker: Satchel-Grant
+speaker: Satchel Grant
 ---
 
 Abstract to come.
