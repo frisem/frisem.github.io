@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Mechanistic Interpretations of Neural Isomorphisms: From computations to neurons"
+title: "A Mechanistic Interpretation of Neural Isomorphisms: From computations to neurons"
 speaker: Satchel Grant
 ---
 
