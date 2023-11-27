@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Title TBD
-speaker: Ari Beller
+title: Limitations of line-scan MRI for directly measuring neural activity
+speaker: Josh Wilson
 ---
 
-Abstract to come.
+Several groups have reported using 2D line-scan MRI sequences in humans and mice to directly measure neural responses to stimuli (the “DIANA response”). Other groups have been unable to replicate the DIANA response, even with higher field strengths and more repetitions. Part of this discrepancy is likely due to a limited understanding of the noise profile of the line-scan MRI sequence: specifically, the consequences of deviations from the assumption of stationarity between line scans. Here, we collected data using an MRI line-scan method while human subjects viewed a blank screen with the purpose of studying noise unique to the acquisition sequence. We found temporal fluctuations in the reconstructed time series from localized groups of voxels that could easily be confused with neural responses to stimuli. These fluctuations were present both in the head and in the surrounding empty volume along the span of the phase-encoding direction from the head. The timing of these fluctuations varied systematically and smoothly along the phase-encoding direction. These features can be explained by a model that accounts for the acquisition sequence and incorporates time-varying contrast fluctuations in the imaging substrate. Using the model, we quantify the amount of cortical- and scan-averaging one might need to reliably distinguish a DIANA response from noise.
