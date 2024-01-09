@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tbd 
+title: Admit Week Lightning Talks
 speaker: Various students.
 ---
 
