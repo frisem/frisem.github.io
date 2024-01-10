@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI-assisted coding - Experiments with GPT-4
+title: AI-assisted coding -- Experiments with GPT-4
 speaker: Russ Poldrack
 ---
 
