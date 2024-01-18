@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tbd 
-speaker: Phillip Franken
+speaker: Violet Xiang
 ---
 
 Abstract to come.
