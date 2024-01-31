@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The case for psychometrics: Studies in early word learning
+title: The case for psychometrics - Studies in early word learning
 speaker: Alvin Tan
 ---
 
