@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minds tracking minds -The computational basis of human social intelligence
+title: Minds tracking minds - The computational basis of human social intelligence
 speaker: Julian Jara-Ettinger
 ---
 
