@@ -1,7 +1,7 @@
 ---
 layout: post
-title: TBD
+title: Tobi's Tips and Tricks
 speaker: Tobi Gerstenberg
 ---
 
-Abstract TBD.
+Tobi will share tips and tricks he has learned over the years.
