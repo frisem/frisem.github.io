@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TBD
-speaker: Phillip Jan-Franken
+speaker: Jan-Phillip Franken
 ---
 
 TBD
