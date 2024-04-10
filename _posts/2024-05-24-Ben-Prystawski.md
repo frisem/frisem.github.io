@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TBD
-speaker: Ben Prystawksi
+speaker: Ben Prystawski
 ---
 
 TBD
