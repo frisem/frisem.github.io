@@ -25,7 +25,7 @@ Friday Seminar (FriSem) is a professional training seminar for the Cognitive and
 
 Because FriSem is mainly intended as a training seminar for members of the Stanford Psychology community, we aim for **the majority of weeks to have trainee presentations (students, postdocs, etc.)**. We encourage **professors to volunteer to host educational sessions**, in which they share how they think about topics in cognitive neuroscience, give a tutorial, or talk about non-research/professional-development-related topics (e.g., how to run a lab or put together a job talk). Other programming might include alumni panels (both industry and academia) and focused community discussions on relevant topics.
 
-To that end, assuming that FriSem is held 8-9 weeks each quarter, we hope to maintain a standard of having 7-8 student presentations, 1-2 faculty prestations, 0-1 external speakers/other sessions each term. We encourage trainees in the department to aim for at least one presentation per year. Please reach out to the organizers to schedule a presentation date. We also hope that professors will encourage their trainees to share their work in this forum.
+To that end, assuming that FriSem is held 8-9 weeks each quarter, we hope to maintain a standard of having 7-8 student presentations, 1-2 faculty presentations, 0-1 external speakers/other sessions each term. We encourage trainees in the department to aim for at least one presentation per year. Please reach out to the organizers to schedule a presentation date. We also hope that professors will encourage their trainees to share their work in this forum.
 
 # Interacting with speakers
 
