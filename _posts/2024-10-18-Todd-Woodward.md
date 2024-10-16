@@ -1,7 +1,11 @@
 ---
 layout: post
-title: TBD
+title: Cognitive modes detectable by fMRI: The proof is in the BOLD signal
 speaker: Todd Woodward
 ---
 
-Professor, Department of Psychiatry, Faculty of Medicine, University of British Columbia
+Todd Woodward is a full professor in the Department of Psychiatry at the University of British Columbia (UBC), Vancouver, Canada. He studies brain imaging (specializing in fMRI) with the long-term goal of understanding the symptoms of mental illness. He directs the Brain Dynamics laboratory and the Cognitive Neuroscience of Schizophrenia laboratory at UBC.
+
+# Cognitive modes detectable by fMRI: The proof is in the BOLD signal 
+
+In the context of task-based functional magnetic resonance imaging (fMRI), cognitive modes can be defined as task-general cognitive/sensory/motor processes which reliably elicit specific blood-oxygen-level-dependent (BOLD) signal pattern configurations. A number of cognitive modes are detectable with task-based fMRI, and we present evidence for 11 in a forthcoming book: Cognitive Modes Detectable by fMRI (Woodward and Percival, eds, forthcoming). Every cognitive mode is associated with BOLD signal changes modulated by a range of tasks, and each cognitive mode is described in its own chapter. For each chapter/mode, we report: (1) specific pattern-based (as opposed to coordinate-based) anatomical details essential for identifying/classifying the BOLD-based cognitive modes, and (2) task-induced BOLD signal changes associated with each mode over a range of task conditions. In order to facilitate recognition, we nick-name the anatomical patterns specific to each cognitive mode (3-7 per mode), and provide nick-name-congruent doodles to help identify each. Evidence for each mode’s functional definition is derived from the timing and magnitude of task-induced BOLD signal changes induced by a range of tasks collected on various scanners by various investigators in various countries, after these anatomical patterns have been matches across tasks, possible because the anatomical patterns and functional interpretations of each mode replicate over not only tasks and samples, but also over sites and scanners. Classification of anatomical patterns, as well as interpretation of the temporal profiles of BOLD signal changes, followed by assignment of cognitive functions that define the mode, moves task-based fMRI modes towards a one-to-one mapping between BOLD network patterns and fMRI-specific task general cognitive processes, reducing the risk of reverse-inference errors. 
