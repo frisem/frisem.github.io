@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cognitive modes detectable by fMRI: The proof is in the BOLD signal
+title: Cognitive modes detectable by fMRI
 speaker: Todd Woodward
 ---
 
