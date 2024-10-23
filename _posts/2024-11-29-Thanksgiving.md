@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thanksgiving (cancelled)
+title: Thanksgiving (no meeting)
 speaker: 
 ---
 

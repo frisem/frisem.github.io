@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cancelled (SfN conference)
+title: SfN conference (no meeting)
 speaker:
 ---
 
