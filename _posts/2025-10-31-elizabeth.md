@@ -1,7 +1,7 @@
 ---
 layout: post
-title: TBA
+title: Do you see what I see?: Comparing visual diet in children and teens using mobile eye-tracking in natural environments
 speaker: Elizabeth Jiwon Im
 ---
 
-TBA
+As adults, we are experts at processing the rich visual input from everyday life to perform tasks like recognizing faces, reading words, or interpreting other people’s actions on the street. Many of these abilities, such as face recognition, are already present in young children, yet they continue to develop into adulthood. Other abilities, such as word reading, are acquired later in life. During this period of behavioral development, regions of the brain also undergo significant changes. In particular, the neuroscience literature shows that selectivity to faces and words increases, while selectivity to hands decreases. Moreover, increases in neural selectivity are often coupled with improved performance in the corresponding visual recognition abilities. This has led researchers to hypothesize that brain development and behavior are linked to changes in visual diet across development. However, there remains a gap in the literature on how visual diet itself changes during this period. I aim to fill this gap by densely measuring visual diet in young children and teenagers in their natural environments (home and classroom settings) using a new technology: mobile eye-tracking glasses. In this talk, I will demonstrate (1) the methods we developed to validate mobile eye-tracking in children and teens, (2) the analytical pipeline we are building to process large-scale naturalistic scene and eye-tracking data, and (3) preliminary analyses from preschoolers and teenagers.
