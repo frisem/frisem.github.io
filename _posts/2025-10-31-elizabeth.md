@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do you see what I see?: Comparing visual diet in children and teens using mobile eye-tracking in natural environments
+title: "Do you see what I see? Comparing visual diet in children and teens using mobile eye-tracking in natural environments"
 speaker: Elizabeth Jiwon Im
 ---
 
