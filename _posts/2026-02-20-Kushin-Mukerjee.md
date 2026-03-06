@@ -1,7 +1,7 @@
 ---
 layout: post
-title: TBA
+title: Using drawings and data visualizations to express knowledge
 speaker: Kushin Mukerjee
 ---
 
-TBA
+Humans have been putting mark to surface for millennia to express their knowledge of the world. In modern day, evidence of visual mark-making ranges from architectural sketches to musical score sheets to visualizations of massive datasets. How do people arrive at the marks that they believe will best serve their goals? Conversely, how do people observing these marks make sense of their meaning and the goals of the producer? In this talk, I will present on two lines of work that speak to this general ability to produce and understand abstract visualizations of knowledge. The first will describe how people use drawings to communicate concrete object concepts — ranging from animals to everyday household appliances — at varying levels of detail. I will further describe under what circumstances both human observers and computer vision algorithms successfully decode the meaning encoded in these abstract stroke-based representations of objects. The second line of work will focus on how people use data visualizations (graphs, charts) to communicate about quantitative information under different goals and assess when people and multimodal generative models derive correct conclusions about data when presented with visualizations of real-world data. Together, findings from these lines of work will highlight how drawings and graphs reflect the semantic knowledge and goals of producers and how the visual properties of these renderings constrain the meanings that observers derive from them.

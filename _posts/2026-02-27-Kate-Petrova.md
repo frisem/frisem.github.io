@@ -1,7 +1,7 @@
 ---
 layout: post
-title: TBA
+title: Regret: Towards a Computational Affective Science Perspective
 speaker: Kate Petrova
 ---
 
-TBA
+Though there is growing interest in applying approaches from computational cognitive science to the study of affective phenomena, formal computational models of emotion that do justice to both the methodological rigor of cognitive science and the theoretical richness of affective science remain relatively scarce. In my talk, I will focus on my work on regret as a case study of how a diverse array of methods—ranging from ecological momentary assessment and qualitative studies to controlled behavioral experiments, eye-tracking, and computational modeling—can be integrated to advance a more nuanced understanding of affective phenomena. First, I will present evidence that regret is both common and consequential in everyday life, shaping people’s real-world decision in meaningful ways. Second, I will introduce a set of experimental and computational findings showing that modeling the cognitive appraisal of regret as the strength of belief updating about foregone alternatives predicts both the subjective experience of regret as well as participants’ choices in a bandit task. Third, I will discuss ongoing and planned work extending this framework to more naturalistic decision contexts and exploring alternative modeling approaches to capture the dynamics of regret over time. This program of research is still developing, and many of the theoretical and methodological questions remain open. My hope is that it will grow into a research program in which affect is treated as an essential and generative component of comprehensive models of human behavior. To that end, I very much look forward to discussion and feedback on how this framework might be sharpened, extended, and situated within the broader context of cognitive and affective science.
