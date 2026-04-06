@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TBD
-speaker: Ben Prystawski
+speaker: Daniel Wurgaft
 ---
 
 TBA
