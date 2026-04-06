@@ -1,7 +1,7 @@
 ---
 layout: post
-title: TBD
+title: Discovering and (occasionally) transmitting abstract knowledge in a crafting game
 speaker: Ben Prystawski
 ---
 
-TBA
+As modern humans, we have access to a vast body of knowledge discovered by others, much of it centuries old. Some of this knowledge is concrete and specific, like how to recognize which mushrooms are safe to eat. But some of the most important facets of human knowledge are abstract, like geometry or the germ theory of disease. Understanding how humans can transmit abstract knowledge is crucial to understanding humans’ distinctive place among species. However, current experimental paradigms focus on the cultural transmission of specific, concrete facts rather than generalizable abstract knowledge. In this talk, I present a crafting game paradigm designed to study how people discover abstract knowledge and transmit it in language. We compared individuals playing this game for 40 rounds against chains of four participants playing for 10 rounds each and passing messages to each other sequentially. The individuals produced significantly more valuable items over rounds, but the chains did not. Through simulations and a follow-up experiment, we find substantial variation in the helpfulness of participants’ messages, which may explain the lack of consistent improvement in chains. The ability to learn selectively from the good messages may be essential for improvement over generations.
