@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Foundation Models and Psychology
-speaker: TBD
+speaker: 
 ---
 
 Suppose it is 2050 and AI has enabled the past 25 years to be wildly successful for cognitive science and cognitive neuroscience. What have we discovered? What outstanding questions from today have we answered? How did that happen?
