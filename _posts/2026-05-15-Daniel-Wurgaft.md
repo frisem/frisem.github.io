@@ -1,7 +1,7 @@
 ---
 layout: post
-title: TBD
+title: A Rational Analysis of Few-Shot Learning in Transformers
 speaker: Daniel Wurgaft
 ---
 
-TBA
+In this talk, I will explore Transformers as animal models of few-shot learning, in service of making broader normative claims regarding cognitive systems. In particular, I will advocate for a rational analysis approach, where a learner's behavior is explained as a Bayes-optimal adaptation to data given computational constraints. In the first part, I will focus on the development of few-shot learning, and present a hierarchical Bayesian model that explains the emergence of this ability, and the data distributional properties underlying it. The model almost perfectly captures Transformer behavior throughout training—without assuming access to weights—as well as captures a variety of previously-studied few-shot learning phenomena. In the second part, I will turn to LLMs, and use a Bayesian approach to begin exploring neural representations underlying few-shot learning. In particular, we cast direct intervention on neural representations, as well as evidence provided in-context, as ways of varying a model's beliefs over latent concepts. This yields a Bayesian model that predicts LLM few-shot learning across interventions, and accounts for sharp behavioral transitions. Taken together, these results highlight the value of rational analysis for understanding neural networks, as well as the potential of controlled experiments with these systems for informing theories of the development and neural implementation of cognitive abilities.A
