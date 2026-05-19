@@ -1,7 +1,6 @@
 ---
 layout: post
-title: TBD
+title: CANCELED
 speaker: Ilker Yildrim
 ---
 
-TBA
